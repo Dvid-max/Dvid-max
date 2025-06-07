@@ -13,7 +13,7 @@
 <ul>
   <li>🧠 Tenho 21 anos e estou focado em construir minha carreira como desenvolvedor</li>
   <li>📚 Atualmente estudando Java, Python, HTML, CSS e bancos de dados relacionais</li>
-  <li>🌐 Interesse tanto no front-end quanto no back-end</li>
+  <li>🌐 Interesse em front-end e back-end</li>
   <li>💼 Busco aprender com projetos reais e colaborar com equipes de desenvolvimento</li>
 </ul>
 
