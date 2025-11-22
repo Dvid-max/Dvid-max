@@ -48,11 +48,6 @@
 
 ---
 
-<details>
-  <summary>Curiosidade</summary>
-  <p>Sou focado e gosto de aprender na prática. Tenho interesse em projetos que trazem soluções reais e impactam positivamente a vida das pessoas.🚀</p>
-</details>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dvid-max/Dvid-max/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dvid-max/Dvid-max/output/pacman-contribution-graph.svg">
