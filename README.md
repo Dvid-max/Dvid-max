@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Estudante de Análise e Desenvolvimento de Sistemas <br/>
-🧑‍💻 Apaixonado por tecnologia e desenvolvimento Back-end <br/>
+🧑‍💻 Apaixonado por tecnologia e desenvolvimento Back end <br/>
 🎯 Em busca de uma oportunidade de estágio
 </p>
 
